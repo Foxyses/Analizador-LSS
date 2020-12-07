@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1607113579 source:c:\users\ulise\documents\codeblocks\analizador lss\src\analizador.cpp
+	"analizador.h"
+
+1607113579 c:\users\ulise\documents\codeblocks\analizador lss\include\analizador.h
+	<list>
+	<string>
+	<algorithm>
+
+1607113579 source:c:\users\ulise\documents\codeblocks\analizador lss\src\analizadorsemantico.cpp
+	"analizadorsemantico.h"
+	<fstream>
+	<iostream>
+	<regex>
+	<windows.h>
+	"analizador.h"
+
+1607113579 c:\users\ulise\documents\codeblocks\analizador lss\include\analizadorsemantico.h
+	<string>
+	<list>
+
+1607114906 source:c:\users\ulise\documents\codeblocks\analizador lss\main.cpp
+	<iostream>
+	<iostream>
+	"analizador.h"
+	"analizadorsemantico.h"
+	<windows.h>
+

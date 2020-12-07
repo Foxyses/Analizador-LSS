@@ -1,0 +1,22 @@
+Ejemplo 1.
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+c = suma(8,9);
+}
+
+Ejemplo 2:
+int a;
+int suma(int a, int b){
+	return a+b;
+}
+
+int main(){
+float a;
+int b;
+int c;
+c = a+b;
+c = suma(8.5,9.9);
+}

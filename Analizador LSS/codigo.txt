@@ -1,0 +1,12 @@
+for(int i = 0; i < 10; i++);
+bool bandera = true;
+while(bandera==true)
+{
+  inc++;         
+}
+inc--;
+int ;;
+0
+if(25<30 and age >= 20)
+void sort(list miLista);
+
